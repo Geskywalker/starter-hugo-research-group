@@ -11,7 +11,7 @@ role: Professor of Clinical Neuroscience
 # Organizations/Affiliations
 organizations:
 - name: UCL Queen Square Insitute of Neurology
-  url: ""
+  url: "https://www.ucl.ac.uk/ion/people/prof-anette-schrag"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Professor Schrag’s research focusses on Parkinson’s disease and other movement disorders. This includes clinical and biomarker studies to improve early diagnosis of Parkinson's, clinical trials to reduce its symptoms and progression, development of better tools for the measurement of symptoms, and epidemiological research in this field. She has pioneered a patient-centred approach in assessing outcomes of clinical trials in Parkinson’s disease and the inclusion and development of patient-oriented outcome measures. 
