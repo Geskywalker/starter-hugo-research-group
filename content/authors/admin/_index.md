@@ -1,20 +1,22 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Prof Anette Schrag
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Clinical Neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: UCL Queen Square Insitute of Neurology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Professor Schrag’s research focusses on Parkinson’s disease and other movement disorders. This includes clinical and biomarker studies to improve early diagnosis of Parkinson's, clinical trials to reduce its symptoms and progression, development of better tools for the measurement of symptoms, and epidemiological research in this field. She has pioneered a patient-centred approach in assessing outcomes of clinical trials in Parkinson’s disease and the inclusion and development of patient-oriented outcome measures. 
+
+She is currently Principal Investigator of several grants, including a randomized controlled trial of antidepressants in Parkinson’s disease (ADepT-PD), a UK-wide study to identify risk markers of Parkinson’s in the general population (Predict-PD; jointly with Dr. Alastair Noyce, QMUL), and a multicenter study to develop and test a facilitated self-management tool for patients with Parkinson’s disease (PD-Care; jointly with Prof. Kate Walters). She also investigates the imaging and clinical correlates of anxiety and depression in Parkinson's, tools to identify and monitor cognitive function in Parkinson's, and develop new clinical outcome measures in movement disorders. She has worked on the motor and non-motor features of Parkinson’s disease, and has conducted a number of epidemiological studies to examine particularly risk and prognostic factors in Parkinson's disease. In addition, she works on a large European study on the risk factors for Tourette's syndrome in children. 
 
 interests:
 - Artificial Intelligence
