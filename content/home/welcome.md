@@ -10,7 +10,7 @@ title: |
   AND-PD  
   Research Group
 hero_media: and-pd.png 
-            info and-pd.jpg
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -21,4 +21,4 @@ design:
 
 <br>
 
-The **AND-PD Research Group** aims to improve the diagnosis, management and treatment of anxiety as a co-morbidity of Parkinson's disease (PD) through greater understanding of its neurobiological causes. AND-PD is a large research project with multiple sites across Europe (see picture below). Prof Anette Schrag and her team are focusing on clinical features of Parkinson's with anxitey with University College London and Kings College London. 
+The **AND-PD Research Group** aims to improve the diagnosis, management and treatment of anxiety as a co-morbidity of Parkinson's disease (PD) through greater understanding of its neurobiological causes. AND-PD is a large research project with multiple sites across Europe. Prof Anette Schrag and her team are focusing on clinical features of Parkinson's with anxitey at University College London and Kings College London. 

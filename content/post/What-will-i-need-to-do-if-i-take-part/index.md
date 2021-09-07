@@ -1,11 +1,13 @@
 ---
-title: (3) What will I need to do if I take part?
+title: What will I need to do if I take part?
 #date: 2020-12-01
+image:
+  focal_point: "top"
 ---
 
 <!--more-->
 
-**Can I definitely take part?**
+Can I definitely take part?
 
 Not everyone will be able to take part in this study. Only patients that meet the study entry requirements and are willing to participate may take part.
 
@@ -15,13 +17,15 @@ If you decide you would like to take part, you will be invited to attend a scree
 
 If you are a woman of childbearing potential you will also be asked to use adequate contraception throughout the study and to have a pregnancy test before the start of the study, as you cannot have a research MRI scan if you are pregnant.
 
-You will be asked to complete study assessments and questionnaires. The results from all assessments, urine pregnancy test and questionnaires will be analysed by the research staff to determine if you are suitable for inclusion in this study. With your permission we will inform your GP once you join the AND-PD study.
+You will be asked to complete study assessments and questionnaires.
 
-**What if the tests show I can take part?**
+The results from all assessments, urine pregnancy test and questionnaires will be analysed by the research staff to determine if you are suitable for inclusion in this study. With your permission we will inform your GP once you join the AND-PD study.
+
+What if the tests show I can take part?
 
 If you meet all the entry requirements for the AND-PD study, you may be enrolled onto the study on the same day. If you need time to discuss your participation in the study with family, friends or GP then a member of the research team will contact you at a later date to answer any questions you may have and to arrange a convenient time for you to return to the hospital/clinic to be enrolled onto the study. The research staff will go through the next key steps with you.
 
-**What will happen to me during the study?**
+What will happen to me during the study?
 
 You will be asked to attend three (3) study appointments over a 12-month period: the screening visit (visit 1), baseline (visit 2) and follow-up at 6 months (visit 3) and follow-up at 12 months (visit4/final visit). Visit 1 can be combined with visit 2.
 
@@ -36,7 +40,7 @@ The MRI scans will be carried out either at Wellcome Centre for Human Neuroimagi
 
 You will be assessed at baseline and then invited back for reassessment after 6 months (visit 3) and one further follow-up visit at 12 months.
 
-**What checks and tests will be done?**
+What checks and tests will be done?
 
 We estimate the screening/baseline visit assessments and questionnaires will take between two and three hours (and another two to three hours if you have an MRI scan). We anticipate that the assessments and questionnaires at follow up visits will be completed in under three hours. Each testing session can be done over two days, if preferred.
 
