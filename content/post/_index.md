@@ -1,5 +1,5 @@
 ---
-title: Participant Information 
+title: About the study 
 
 # View.
 #   1 = List
