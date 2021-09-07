@@ -1,5 +1,5 @@
 ---
-title: More information about taking part
+title: (6) More information about taking part
 #date: 2020-12-01
 image:
   focal_point: "top"
