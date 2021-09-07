@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Participant Informaiton 
 
 # View.
 #   1 = List
