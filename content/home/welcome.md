@@ -9,7 +9,7 @@ weight: 10  # Order that this section will appear.
 title: |
   AND-PD  
   Research Group
-hero_media: and-pd.jpg
+hero_media: and-pd white bg.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **AND-PD Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **AND-PD Research Group** aims to improve the diagnosis, management and treatment of anxiety as a co-morbidity of Parkinson's disease (PD) through greater understanding of its neurobiological causes

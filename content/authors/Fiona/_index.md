@@ -68,7 +68,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 I currently working on a project using fMRI to give a greater understanding of Parkinson's Disease
