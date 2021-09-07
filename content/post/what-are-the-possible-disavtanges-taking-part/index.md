@@ -12,7 +12,7 @@ In case you have any worries about having the study procedures, please contact u
 
 If you would like some support with your anxiety, Anxiety UK is a charity providing support for people with an anxiety condition. Phone: 03444 775 774 (Monday to Friday, 9.30am to 5.30pm). Website: www.anxietyuk.org.uk. You can also speak to your doctor for advice.
 
-What happens if something suspicious is seen on my MRI?
+**What happens if something suspicious is seen on my MRI?**
 
 The brain scans we do are not designed to diagnose disease; however, abnormalities are occasionally detected during the scanning process. Most of these are no cause for concern. In some cases, identification of a major abnormality that requires action will be reported to the doctor you specify on your MRI consent form and to the study investigators.
 
