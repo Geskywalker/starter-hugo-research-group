@@ -1,6 +1,6 @@
 ---
 title: (6) More information about taking part
-image: circle and-pd.jpg
+image: 
   focal_point: "top"
 ---
 

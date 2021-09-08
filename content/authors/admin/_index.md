@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Professor Schrag’s research focusses on Parkinson’s disease and other movement disorders. This includes clinical and biomarker studies to improve early diagnosis of Parkinson's, clinical trials to reduce its symptoms and progression, development of better tools for the measurement of symptoms, and epidemiological research in this field. 
