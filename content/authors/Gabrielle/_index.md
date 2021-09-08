@@ -69,5 +69,5 @@ user_groups:
 - Researchers
 ---
 
-I currently working on a project that will look at mild cognitive impairment in Parkinson's disease and how levels of anxitey and depression impacts on cognitive profiles. 
+I currently working on a project that will look at mild cognitive impairment in Parkinson's disease and how levels of anxitey and depression impacts on cognition. 
 
