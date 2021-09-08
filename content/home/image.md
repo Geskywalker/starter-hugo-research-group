@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 title:
-subtitle:
+subtitle: The AND-PD research group
 
 design:
   columns: "1"
