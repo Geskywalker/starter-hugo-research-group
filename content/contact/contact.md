@@ -29,4 +29,5 @@ design:
   columns: '1'
 ---
 
-If you are interested to take part or would like to have more information please get in touch with us! You can email or call us, the details are below. 
+If you are interested to take part or would like to have more information please get in touch!
+You can email or call us, the details are below. 

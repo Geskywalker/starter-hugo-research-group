@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Gabrielle SheehanSheehan
-
+title: Gabrielle Sheehan
 # Username (this should match the folder name)
 authors:
 - Gabrielle 
@@ -70,5 +69,5 @@ user_groups:
 - Researchers
 ---
 
-I currently working on a project that will look at mild cognitive impairment in Parkinson's disease adn how levels of anxitey and depression impacts on cognitive profiles. 
+I currently working on a project that will look at mild cognitive impairment in Parkinson's disease and how levels of anxitey and depression impacts on cognitive profiles. 
 

@@ -26,9 +26,9 @@ address:
   street: Room 2/687 
   city: Department of Clinical and Movement Neurosciences 
   region: UCL Queen Square Institute of Neurology 
-  postcode: '94305'
-  country: United States
-  country_code: US
+  postcode: London
+  country: United Kingdom
+  country_code: 
 #coordinates:
   #latitude: '37.4275'
   #longitude: '-122.1697'
