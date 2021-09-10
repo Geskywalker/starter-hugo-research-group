@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
     AND-PD
-    Research Group
+    
 hero_media: and-pd-logo-head.png
 
 design:
@@ -23,4 +23,4 @@ design:
 
 *Anxiety with or without Depressive Features in Parkinson's disease*
 
-The **AND-PD Research Group** aims to improve the diagnosis, management and treatment of anxiety as a co-morbidity of Parkinson's disease (PD) through greater understanding of its neurobiological causes. AND-PD is a large research project with multiple sites across Europe. Prof Anette Schrag and her team at University College London are focusing on clinical features of Anxiety in Parkinson’s.
+The **AND-PD** aims to improve the diagnosis, management and treatment of anxiety as a co-morbidity of Parkinson's disease (PD) through greater understanding of its neurobiological causes. AND-PD is a large research project with multiple sites across Europe. Prof Anette Schrag and her team at University College London are focusing on clinical features of Anxiety in Parkinson’s.
