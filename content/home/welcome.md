@@ -7,8 +7,7 @@ widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
-  AND-PD  
-  Anxiety with or without Depressive Features in Parkinson's disease
+  **An**xiety with or without **D**epressive Features in **P**arkinson's **d**isease
 hero_media: and-pd-logo-head.png
 
 design:
