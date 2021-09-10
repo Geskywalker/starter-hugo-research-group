@@ -69,5 +69,4 @@ user_groups:
 - Researchers
 ---
 
-I currently working on a project that will look at mild cognitive impairment in Parkinson's disease and how levels of anxitey and depression impacts on cognition. 
-
+Gabrielle graduated from University of Westminster in 2016 with a First-Class Honors in BSc Cognitive Neuroscience and completed a MSc in Cognitive Neuroscience in 2018 with a distinction at the University of Sussex. Gabrielle's main interests are in cognitive profiles, brain-body interactions, and neuroimaging. Gabrielle's first research assistant role was in the Qmap-PD study at UCL and is now a clinical research assistant on the AND-PD research team at UCL. 

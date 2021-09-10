@@ -70,5 +70,4 @@ user_groups:
 - Researchers
 ---
 
-I currently working on a project using fMRI to give a greater understanding of Parkinson's Disease
-
+Laura graduated from the University of Exeter with a BSc in Psychology in 2017. This led to completion of an MSc in Clinical Mental Health Sciences at UCL, where she graduated with a distinction. Following this, Laura went on to work as a Clinical Research Assistant at University Hospitals of Leicester NHS Trust, on a range of covid-19 research studies. She then returned to UCL in October 2020 where she is currently working as a Research Assistant at the Institute of Neurology.

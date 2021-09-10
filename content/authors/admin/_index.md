@@ -67,4 +67,4 @@ user_groups:
 - Principal Investigator
 ---
 
-Professor Schrag’s research focusses on Parkinson’s disease and other movement disorders. This includes clinical and biomarker studies to improve early diagnosis of Parkinson's, clinical trials to reduce its symptoms and progression, development of better tools for the measurement of symptoms, and epidemiological research in this field. 
+Professor Schrag’s research focusses on Parkinson’s disease and other movement disorders. This includes clinical and biomarker studies to improve the diagnosis of Parkinson’s and to understand the underlying causes of motor and non-motor features of Parkinson’s disease, particularly neuropsychiatric features. She conducts a number of clinical trials to reduce the symptoms of Parkinson’s and its progression, has contributed to numerous publications and to clinical guidelines on Parkinson’s disease, and leads the UK Parkinson’s Excellence Network in North London.
