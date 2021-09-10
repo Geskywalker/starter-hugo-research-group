@@ -5,10 +5,10 @@
 
 main:
   - name: About the Study
-    url: post
+    url: aboutthestudy
     weight: 20
   - name: Meet the Team
-    url: people
+    url: meettheteam
     weight: 30
   - name: Contact
     url: contact
