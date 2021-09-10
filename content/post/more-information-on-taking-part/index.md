@@ -8,7 +8,8 @@ image:
 
 **Do I have to take part in the AND-PD study?**
 
-No, it is up to you to decide whether or not to take part. If you decide to take part, you will be given this information sheet to keep and you will be asked to sign a consent form.
+No, it is up to you to decide whether or not to take part. If you decide to take part, you will be given a information sheet to keep and you will be asked to sign a consent form.
+
 If you decide not to take part in this study, will not affect the standard of care you receive.
 
 **Will I get back any travel costs?**

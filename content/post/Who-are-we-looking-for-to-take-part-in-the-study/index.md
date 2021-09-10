@@ -15,7 +15,7 @@ This is an observational and imaging study where we will follow-up patients, at 
 
 Note: 50 participants from the total sample will also have an optional MRI scan.
 
-** Key Inclusion Criteria **
+**Key Inclusion Criteria**
 
 · Diagnosis of Parkinson’s disease
 
@@ -23,9 +23,8 @@ Note: 50 participants from the total sample will also have an optional MRI scan.
 
 · Can tolerate behavioural and psychological testing.
 
-· Subgroup with anxiety: score of or above 14 on the PAS or GAD-7 score of or above 10. This would indicate moderate anxiety on a standard scale of anxiety.
 
-** Key Exclusion Criteria **
+**Key Exclusion Criteria**
 
 · Past/present psychotic disorder, bipolar disorder/mania, or alcohol/substance use disorder (outside a comorbid psychiatric episode).
 
