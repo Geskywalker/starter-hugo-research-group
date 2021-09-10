@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
     AND-PD
-  
+    Research Group
 hero_media: and-pd-logo-head.png
 
 design:
