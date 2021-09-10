@@ -1,6 +1,6 @@
 ---
 title: (3) What will I need to do if I take part?
-#date: 2020-12-01
+
 ---
 
 <!--more-->

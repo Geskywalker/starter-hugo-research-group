@@ -1,6 +1,6 @@
 ---
 title: (5) What are the possible disadvantages and risks of taking part?
-#date: 2020-12-01
+
 image:
   focal_point: "top"
 ---

@@ -1,6 +1,6 @@
 ---
 title: (2) Who are we looking for to take part in the study?
-#date: 2020-12-01
+
 image:
   focal_point: "top"
 ---
