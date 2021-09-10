@@ -15,6 +15,7 @@ This is an observational and imaging study where we will follow-up patients, at 
 
 Note: 50 participants from the total sample will also have an optional MRI scan.
 
+
 **Key Inclusion Criteria**
 
 · Diagnosis of Parkinson’s disease
@@ -32,7 +33,8 @@ Note: 50 participants from the total sample will also have an optional MRI scan.
 
 · Atypical or symptomatic parkinsonian syndrome
 
-Subgroup with MRI: exclusion criteria
+
+**Subgroup with MRI: exclusion criteria**
 
 · MRI contraindications such as a pacemaker, aneurysm clip, cochlear implant, neurostimulator, IUD, shrapnel, metal fragments in the eye, a weight of above 250lbs or claustrophobia
 
