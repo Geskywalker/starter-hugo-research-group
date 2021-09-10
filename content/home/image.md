@@ -18,7 +18,7 @@ subtitle: The AND-PD research group
 design:
   columns: "1"
   background:
-    image: and-pd GROUP.jpg
+    image: and-pd-logo-head.png
     image_darken: 0
     image_parallax: false
     image_position: center

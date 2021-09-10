@@ -69,4 +69,4 @@ user_groups:
 - Researchers
 ---
 
-Gabrielle graduated from University of Westminster in 2016 with a First-Class Honors in BSc Cognitive Neuroscience and completed a MSc in Cognitive Neuroscience in 2018 with a distinction at the University of Sussex. Gabrielle's main interests are in cognitive profiles, brain-body interactions, and neuroimaging. Gabrielle's first research assistant role was in the Qmap-PD study at UCL and is now a clinical research assistant on the AND-PD research team at UCL. 
+Gabrielle graduated from the University of Westminster in 2016 with a First-Class Honours in BSc Cognitive Neuroscience and completed a MSc in Cognitive Neuroscience in 2018 with a distinction at the University of Sussex. Gabrielle's main interests are in cognitive profiles, brain-body interactions, and neuroimaging. Since July 2019, Gabrielle has had two positions as a research assistant at University College London researching Parkinson's disease. The first research group was Qmap-PD, and now she is on the AND-PD research group.  
