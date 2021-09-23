@@ -70,5 +70,4 @@ user_groups:
 - Researchers
 ---
 
-I currently working on a project using fMRI to give a greater understanding of Parkinson's Disease
-
+Fiona graduated from University College London with a BSc (hons) in psychology followed by an MSc in cognitive neuroscience.  She worked as a RA at the IOPPN Kings College London from 2012-2019. This included neuroimaging projects looking at memory in first episode patients with psychosis (which formed the basis for her PhD), and a clinical trial looking at a new adjunctive treatment for negative symptoms in patients with chronic schizophrenia.  She returned to University College London in 2020 as a research fellow to work on AND-PD project where she is researching anxiety in people with Parkinson’s disease using fMRI. 
